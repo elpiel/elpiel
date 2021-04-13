@@ -2,7 +2,7 @@
 
 I'm always happy to help, so whenever you have the need just [reach out to me](#-reach-out-to-me)!
 
-**About me:** I am a passioned 🛠 builder with love for Open-source and our planet 🌍 Earth in my heart.
+**About me:** I am a passioned 🛠 builder with love in my heart for 📖 Open-source and our planet 🌍 Earth.
 
 **Areas of work:**
 
