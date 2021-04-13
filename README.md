@@ -9,7 +9,7 @@ I'm always happy to help, so whenever you have the need just [reach out to me](#
 #### 🚀 Aerospace at [@AeroRust Community](https://github.com/AeroRust)
 We are building an (Aero)Space Open-source 🦀 [@rustlang](https://github.com/rust-lang) Community called **AeroRust**. Contributions are always welcomed and I love to discuss ways we can improve our community. Although it's still in it's infancy and my mastery of aerospace is still to come, I'm learning something new every day!
 
-If you want to get involved, join our Community on 💬 [![Join Discord](https://img.shields.io/discord/662244134316408833?label=Discord&style=flat-square)](https://discord.gg/yzWZuBMTND)
+If you want to get involved, join our Community on [![Join Discord](https://img.shields.io/discord/662244134316408833?label=Discord&style=flat-square)](https://discord.gg/yzWZuBMTND)
 
 You can also check out our Working group ideas, projects, issues, etc. and join the discussion: https://github.com/AeroRust/WorkingGroup/issues
 
