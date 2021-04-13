@@ -1,6 +1,6 @@
 # Hello there 👋, it's so nice to see you here!
 
-I'm always happy to help, so whenever you have the need just [reach out to me](#reach-out-to-me)!
+I'm always happy to help, so whenever you have the need just [reach out to me](#-reach-out-to-me)!
 
 ## About me: 
 
