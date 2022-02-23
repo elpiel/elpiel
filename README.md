@@ -19,7 +19,7 @@ My *personal* goals is to **develop technologies to improve life on our planet �
 
 #### ⛓ Blockchain at [@AdExNetwork](https://github.com/AdExNetwork)
 
-My daily job involves working on a Layer 2 Blockhcain solution for a display ad network called **AdEx Network**. You can read more about it on our website:  https://www.adex.network/.
+My daily job involves working on a Layer 2 Blockchain solution for a display ad network called **AdEx Network**. You can read more about it on our website:  https://www.adex.network/.
 
 ⚡ Our main goals are to 📈 **increase user privacy** and 📉 **reduce ad fraud**.
 
