@@ -26,7 +26,7 @@ With this community my goal is to allow **anyone to build for space**.
 My *personal* goals is to **develop technologies to improve life on our planet 🌍 Earth**
 
 ### 📫 Reach out to me:
-- 🐥 Twitter: [**LechevSpace**](https://twitter.com/LechevSpace) and [**elpiel_**](https://twitter.com/elpiel_) - 📨 **DMs are always opened!**
+- 🐥 X: [**LechevSpace**](https://x.com/LechevSpace) and [**elpiel_**](https://x.com/elpiel_) - 📨 **DMs are always opened!**
 - 🔗 LinkedIn: [**linkedin.com/in/elpiel**](https://www.linkedin.com/in/elpiel/)
 - 💬 Discord: [**elpiel#5010**](https://discordapp.com/users/477182143571820565)
 
