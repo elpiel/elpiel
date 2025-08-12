@@ -10,7 +10,7 @@
 
 I'm always happy to help, so whenever you have the need just [reach out to me](#-reach-out-to-me)!
 
-**About me:** I am a passioned 🛠 builder with love in my heart for 📖 Open-source and our planet 🌍 Earth.
+**About me:** I am a passioned 🛠 inventor with love in my heart for 📖 Open-source and our planet 🌍 Earth.
 
 **Areas of work:**
 
@@ -24,14 +24,6 @@ You can also check out our Working group ideas, projects, issues, etc. and join 
 With this community my goal is to allow **anyone to build for space**.
 
 My *personal* goals is to **develop technologies to improve life on our planet 🌍 Earth**
-
-#### ⛓ Blockchain at [@AmbireTech](https://github.com/AmbireTech)
-
-My daily job involves working on a Layer 2 Blockchain solution for a display ad network called **AdEx Network**. You can read more about it on our website: [ambire.com](https://www.ambire.com).
-
-⚡ Our main goals are to 📈 **increase user privacy** and 📉 **reduce ad fraud**.
-
-🛠 My work involves building Open-source services to support the AdEx platform using 🦀 [@rustlang](https://github.com/rust-lang).
 
 ### 📫 Reach out to me:
 - 🐥 Twitter: [**LechevSpace**](https://twitter.com/LechevSpace) and [**elpiel_**](https://twitter.com/elpiel_) - 📨 **DMs are always opened!**
